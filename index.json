@@ -1,0 +1,40 @@
+{
+ "targets": [
+  {
+   "id": "barnard",
+   "name": "Barnard's Star",
+   "tagline": "The fastest star in the sky",
+   "status": "ready"
+  },
+  {
+   "id": "eps-ind-b",
+   "name": "Epsilon Indi Ba+Bb",
+   "tagline": "Twin brown dwarfs: water and methane",
+   "status": "ready"
+  },
+  {
+   "id": "wise-0855",
+   "name": "WISE 0855\u22120714",
+   "tagline": "Coldest brown dwarf, hidden by a neighbour",
+   "status": "conditional"
+  },
+  {
+   "id": "rw-aur",
+   "name": "RW Aurigae",
+   "tagline": "A young star in a dusty disc",
+   "status": "conditional"
+  },
+  {
+   "id": "r-dra",
+   "name": "R Draconis",
+   "tagline": "A giant star that pulses every 8 months",
+   "status": "conditional"
+  },
+  {
+   "id": "nep-lpv",
+   "name": "Pulsating red giant (Gaia DR3 2160548942811758720)",
+   "tagline": "A giant star that swells and fades",
+   "status": "ready"
+  }
+ ]
+}
